@@ -1,0 +1,1 @@
+celery --app app_celery.celery_app worker -c 1
